@@ -1,8 +1,9 @@
 import { mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { join, parse } from 'node:path';
 import { spawn } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 
-const root = new URL('..', import.meta.url).pathname.replace(/^\//, '').replaceAll('/', '\\');
+const root = fileURLToPath(new URL('..', import.meta.url));
 const sourceDir = join(root, 'mindmaps');
 const outputDir = join(root, 'docs');
 
