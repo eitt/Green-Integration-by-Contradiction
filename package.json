@@ -1,0 +1,12 @@
+{
+  "name": "green-integration-by-contradiction-mindmaps",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Interactive Markmap mind maps for the book chapter draft.",
+  "scripts": {
+    "build:maps": "node scripts/build-markmaps.mjs"
+  },
+  "devDependencies": {
+    "markmap-cli": "^0.18.12"
+  }
+}

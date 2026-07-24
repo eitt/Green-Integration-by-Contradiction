@@ -1,0 +1,27 @@
+map_item,verification_status,matched_case_count,matched_cases,countries_found,expectation
+Arctic Yamal,Matched live LNG-related case(s),5,"Liquefied natural gas project -LNG 2,  Gydan peninsula, Arctic Russia; Sabetta port, Arctic Russia; Novatek's two gas fields in Yamalsky nature reserve, Yamal, Russia; Yamal Mega natural gas project, Arctic Russia; Gazprom's Obskaya – Bovanenkovo railroad in  Yamal peninsula, Arctic Russia",Russia,direct LNG / Arctic export
+Gydan,Matched live LNG-related case(s),1,"Liquefied natural gas project -LNG 2,  Gydan peninsula, Arctic Russia",Russia,direct LNG / Arctic export
+Russia,Matched live LNG-related case(s),7,"Liquefied natural gas project -LNG 2,  Gydan peninsula, Arctic Russia; Sabetta port, Arctic Russia; Novatek's two gas fields in Yamalsky nature reserve, Yamal, Russia; Yamal Mega natural gas project, Arctic Russia; Vostok mega oil project, Taymyr, Arctic Russia; Gazprom's Obskaya – Bovanenkovo railroad in  Yamal peninsula, Arctic Russia; Sakhalin-1 and -2 oil and gas development projects, Russia",Russia,export-side cases
+Algeria / Algiers / Ghardaia,Matched contextual / broader gas case(s),2,"Gas grabs, Algeria; Hassi R'Mel gas field, Algeria",Algeria,export-side cases
+Spain,Matched live LNG-related case(s),3,"Protests in Huelva against the use of liquefied gas, Spain; Liquefied Natural Gas (LNG) Terminal in Sagunto, Spain; Castor Project Gas off-shore storage in Vinaròs, Spain",Spain,import-side / storage cases
+France,Matched live LNG-related case(s),1,"Le Havre LNG Floating Storage and Regasification Unit, France",France,import-side case
+Belgium,Matched live LNG-related case(s),1,"Occupation in 2023 of Fluxys' LNG terminal in Zeebrugge, Belgium",Belgium,import-side case
+Germany,Matched live LNG-related case(s),3,"Koa-Gas movement against gas drilling, Bavaria, Germany; Rügen LNG import terminal, Germany; Brunsbüttel LNG Terminal, Germany",Germany,import-side cases
+Croatia,Matched live LNG-related case(s),1,"Protests against floating LNG terminal, Krk island, Croatia",Croatia,import-side case
+Latvia,Matched live LNG-related case(s),1,"Skulte LNG Terminal and Pipeline, Latvia",Latvia,import-side case
+Norway,Matched live LNG-related case(s),1,"Wind power electrification of the Muolkkut (Melkøya) LNG plant, Sapmi (Norway)",Norway,processor / export-related case
+Sweden,Matched live LNG-related case(s),1,"Göteborg LNG Terminal, Sweden",Sweden,import-side case
+Ireland,Matched live LNG-related case(s),3,"Predator's 'Mag Mell'  LNG Floating Storage and Regasification Unit (FSRU), Cork, Ireland; NextDecade Liquid Natural Gas (LNG) Terminal, Cork, Ireland; LNG Shannon terminal, Ireland",Ireland,import-side cases
+Egypt,Matched live LNG-related case(s),1,"The Idku LNG Terminal, Egypt",Egypt,export-side contextual case
+Tunisia,Matched contextual / broader gas case(s),1,"Tataouine Solar Power Plant, Tunisia",Tunisia,context or no current LNG case
+Israel,Matched contextual / broader gas case(s),1,"Baynouna Solar Power Plant and Sun-for-Water deal with Israel, Jordan",Jordan,context or no current LNG case
+Pakistan,Matched live LNG-related case(s),1,"Port Qasim, LNG Terminal Expansion, Pakistan",Pakistan,contextual import-side case
+San Diego,No live LNG match found,0,,,US / Mexico border logistics context
+Ensenada,Matched contextual / broader gas case(s),1,"Planta de licuefacción de gas de Sempra Energy en Ensenada, Baja California, México",Mexico,Mexico export/import context
+Houston,Matched contextual / broader gas case(s),1,"Unistoten Camp, BC, Canada",Canada,US Gulf export infrastructure context
+Corpus Christi,Matched live LNG-related case(s),1,"Corpus Christi LNG facility, Texas, USA",United States,US Gulf export case
+Rio Grande,Matched live LNG-related case(s),1,"Rio Grande LNG, Texas",United States,US Gulf export case
+Boca Chica,Matched contextual / broader gas case(s),1,"Boca Chica SpaceX Launch Facility, TX, USA",United States,US Gulf broader infrastructure case
+San Antonio,No live LNG match found,0,,,US broader gas / pipeline context
+Austin,No live LNG match found,0,,,US broader gas / pipeline context
+Libya,No live LNG match found,0,,,no current LNG case in live search

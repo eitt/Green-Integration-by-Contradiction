@@ -1,0 +1,23 @@
+{
+  "email": "ltalero@unab.edu.co",
+  "doi_count": 1,
+  "scihub_fallback_mode": "auto",
+  "scihub_fallback_command": null,
+  "scihub_fallback_setup_error": "scihub_cli_not_found (install with: uv tool install git+https://github.com/Oxidane-bot/scihub-cli.git)",
+  "results": [
+    {
+      "doi": "10.1016/j.heliyon.2021.e06655",
+      "status": "failed",
+      "title": "Methodological proposal for the identification of tourist routes in a particular region through clustering techniques",
+      "is_oa": true,
+      "resolved_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8060598/pdf/main.pdf",
+      "path": null,
+      "error": "followup_non_pdf_content_type: text/html",
+      "download_method": null,
+      "primary_status": "failed",
+      "primary_error": "followup_non_pdf_content_type: text/html",
+      "fallback_attempted": false,
+      "fallback_error": "scihub_cli_not_found (install with: uv tool install git+https://github.com/Oxidane-bot/scihub-cli.git)"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "target_total_papers": 30,
+  "queries": [
+    {
+      "id": "cluster_a_camino_routes",
+      "mode": "query",
+      "value": "TITLE-ABS-KEY((\"Camino de Santiago\" OR \"pilgrimage tourism\" OR \"pilgrimage route\" OR \"heritage trail\" OR \"walking tourism\" OR \"cultural route\") AND (tourism OR pilgrimage OR heritage OR route OR destination))",
+      "quantity_mode": "batch",
+      "target": 10,
+      "from_year": 2016,
+      "max_search_results": 160,
+      "max_attempts": 120,
+      "page_size": 25,
+      "sort": "-coverDate",
+      "notes": "Camino, pilgrimage, and heritage walking routes."
+    },
+    {
+      "id": "cluster_b_sustainable_development",
+      "mode": "query",
+      "value": "TITLE-ABS-KEY((\"sustainable tourism\" OR \"destination sustainability\" OR \"rural tourism\" OR \"community-based tourism\" OR overtourism OR \"carrying capacity\" OR \"destination governance\" OR \"heritage management\") AND (tourism OR destination OR heritage OR trail OR pilgrimage OR route))",
+      "quantity_mode": "batch",
+      "target": 10,
+      "from_year": 2016,
+      "max_search_results": 180,
+      "max_attempts": 140,
+      "page_size": 25,
+      "sort": "-coverDate",
+      "notes": "Sustainability, resilience, and governance."
+    },
+    {
+      "id": "cluster_c_competitiveness_value_creation",
+      "mode": "query",
+      "value": "TITLE-ABS-KEY((\"regional competitiveness\" OR \"territorial competitiveness\" OR \"local value creation\" OR \"tourism entrepreneurship\" OR \"tourism-led development\" OR \"small business development\" OR \"service ecosystems\" OR \"place-based development\" OR \"inclusive development\" OR \"sustainable business models\") AND (tourism OR destination OR heritage OR trail OR pilgrimage OR route OR regional))",
+      "quantity_mode": "batch",
+      "target": 10,
+      "from_year": 2016,
+      "max_search_results": 180,
+      "max_attempts": 140,
+      "page_size": 25,
+      "sort": "-coverDate",
+      "notes": "Business and regional development alignment for the call."
+    },
+    {
+      "id": "cluster_d_route_methodology",
+      "mode": "query",
+      "value": "TITLE-ABS-KEY((\"tourist route\" OR \"tourism route\" OR \"cultural route\" OR \"heritage route\") AND (methodology OR clustering OR \"spatial analysis\" OR identification OR design OR planning))",
+      "quantity_mode": "batch",
+      "target": 8,
+      "from_year": 2016,
+      "max_search_results": 140,
+      "max_attempts": 120,
+      "page_size": 25,
+      "sort": "-coverDate",
+      "notes": "Route identification and route design methodologies."
+    },
+    {
+      "id": "cluster_e_heritage_rural_governance",
+      "mode": "query",
+      "value": "TITLE-ABS-KEY((\"heritage management\" OR \"cultural heritage\" OR \"rural development\" OR \"regional development\") AND (tourism OR route OR trail OR pilgrimage OR destination) AND (governance OR sustainability OR competitiveness OR \"local development\"))",
+      "quantity_mode": "batch",
+      "target": 8,
+      "from_year": 2016,
+      "max_search_results": 140,
+      "max_attempts": 120,
+      "page_size": 25,
+      "sort": "-coverDate",
+      "notes": "Heritage, governance, and rural-regional development."
+    }
+  ]
+}

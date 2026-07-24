@@ -1,0 +1,59 @@
+﻿{
+  "project_name": "lengerke_chapter_project",
+  "brief_path": "codex_chapter_brief.md",
+  "thesis_path": "MEMORIA PFM LAURA JULIANA Para entregar.docx",
+  "call_path": "CALL-CHAPTERS-FACULTY-ECONOMICS-BUSINESS.pdf",
+  "default_markdown_path": "draft/chapter_draft.md",
+  "default_output_docx": "output/doc/chapter_submission_template.docx",
+  "submission_deadline": "2026-04-10",
+  "suggested_title": "Sustainability Conditions in Heritage Walking Routes: Benchmarking the Camino de Lengerke Against the Camino de Santiago",
+  "call_format": {
+    "font_name": "Arial",
+    "font_size_pt": 12,
+    "line_spacing": 1.0,
+    "min_pages": 12,
+    "max_pages": 18,
+    "references_style": "APA 7th",
+    "tables_and_figures": "black-and-white",
+    "max_authors": 4,
+    "bilingual_frontmatter": false
+  },
+  "section_order": [
+    "Title",
+    "Abstract",
+    "Keywords",
+    "Introduction",
+    "Methodology",
+    "Results and Discussion",
+    "Conclusions",
+    "References",
+    "Author profiles"
+  ],
+  "author_profiles": [
+    {
+      "full_name": "Laura J. Ardila-Fontecha",
+      "degree_and_speciality": "Master's Degree in Sustainable Environmental Management",
+      "institution": "ESSCA Business School",
+      "orcid": "Pending confirmation",
+      "links": "",
+      "bio": "Laura J. Ardila-Fontecha holds a Master's Degree in Sustainable Environmental Management and is affiliated with ESSCA Business School. Her research focuses on sustainable tourism, heritage-route governance, and local development."
+    },
+    {
+      "full_name": "Gabriel Weber",
+      "degree_and_speciality": "Ph.D. in Ecological Economics",
+      "institution": "ESSCA Business School",
+      "orcid": "https://orcid.org/0000-0003-2120-1648",
+      "links": "",
+      "bio": "Gabriel Weber holds a Ph.D. in Ecological Economics and is affiliated with ESSCA Business School. His research examines sustainability transitions, territorial development, and socio-ecological value creation in business and tourism systems."
+    },
+    {
+      "full_name": "Leonardo H. Talero Sarmiento",
+      "degree_and_speciality": "Ph.D. in Engineering",
+      "institution": "Universidad Autonoma de Bucaramanga",
+      "orcid": "https://orcid.org/0000-0002-4129-9163",
+      "links": "",
+      "bio": "Leonardo H. Talero Sarmiento holds a Ph.D. in Engineering and is affiliated with Universidad Autonoma de Bucaramanga. His research examines mathematical modeling, data analytics, operations research, and technology adoption in agricultural and industrial systems."
+    }
+  ]
+}
+

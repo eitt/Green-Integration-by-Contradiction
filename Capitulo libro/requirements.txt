@@ -1,0 +1,4 @@
+python-docx
+PyMuPDF
+pdf2image
+requests

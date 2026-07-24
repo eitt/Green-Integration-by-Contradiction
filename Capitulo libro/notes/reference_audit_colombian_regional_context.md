@@ -1,0 +1,9 @@
+# Reference Audit: Colombian Regional and Context Sources
+
+This table covers the non-official Colombian sources cited in `draft/chapter_draft.md`.
+They are useful for route framing and regional narrative, but they do not substitute for legal or registry evidence.
+
+| Source used in chapter | Exact text analyzed | Interpretation in the paper | Justification for inclusion | Claim boundary | Main chapter use |
+| --- | --- | --- | --- | --- | --- |
+| UIS Caminos de Santander. (n.d.). Caminos del comercio - Caminos de Lengerke. | RECORRIDOS: CABRERA – BARICHARA; LOS SANTOS – JORDÁN; SAN VICENTE DE CHUCURÍ – ZAPATOCA; ZAPATOCA – PUENTERUEDAS... PUENTE DE RUEDAS, OBRA DE GEO VON LENGERKE. | Used to frame the wider documentary network associated with Camino de Lengerke by naming route segments and preserving the broader corridor logic. | Use to frame the broader network logic and route segments associated with Lengerke in Santander | usable; Academic-regional project page; useful for route-system framing and segment identification | Introduction; Results and Discussion A; Table 1; Table 2; Figure 2 discussion |
+| Santander Travel. (n.d.). Los caminos de Geo Von Lengerke. | La travesía inicia en Los Santos, continúa en Jordán, luego en Barichara y Guane, para culminar en Zapatoca... estas vías impulsaron el auge económico de la región; hoy, son legado vivo, pieza fundamental de nuestra historia. | Used only as contextual corroboration for route sequence and regional narrative, not as standalone proof for legal status or conservation claims. | Use as contextual support for route narrative and municipal sequence | contextual only; Regional tourism promotion source; useful as contextual corroboration but not as sole support for legal or historical claims | Introduction; Results and Discussion A; Table 1; Table 2; Figure 2 discussion |
