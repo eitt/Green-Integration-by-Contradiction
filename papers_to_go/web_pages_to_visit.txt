@@ -1,0 +1,22 @@
+Web pages corresponding to the HTML source snapshots
+Project: Green Integration by Contradiction
+
+1. EU–Andean Community agreements: documents
+Local snapshot: papers_to_go/sources/official/european_commission_andean_documents_page.html
+URL: https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/andean-community/documents_en
+Use: implementation reports, agreement documents and ex post evaluation information.
+
+2. EU–Mercosur: text of the agreement
+Local snapshot: papers_to_go/sources/official/european_commission_mercosur_text_page.html
+URL: https://policy.trade.ec.europa.eu/eu-trade-relationships-country-and-region/countries-and-regions/mercosur/eu-mercosur-agreement/text-agreement_en
+Use: official chronology, negotiated outcome, legal instruments and provisional application status.
+
+3. Regulation on deforestation-free products (EUDR)
+Local snapshot: papers_to_go/sources/official/european_commission_eudr_page.html
+URL: https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en
+Use: current implementation dates, amendments and Commission guidance.
+
+4. A European Green Deal — COM(2019) 640
+Local snapshot: papers_to_go/sources/official/commission_com_2019_640_green_deal.html
+URL: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52019DC0640
+Use: official Green Deal objectives and policy framework.

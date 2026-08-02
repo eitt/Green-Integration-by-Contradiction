@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1880.6 731.6" style="enable-background:new 0 0 1880.6 731.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#3A3A3A;}
+	.st2{fill:#BDBDBD;}
+	.st3{fill:#303030;}
+	.st4{stroke:#929292;stroke-width:0.9;}
+	.st5{fill:#202020;}
+	.st6{stroke:#777777;stroke-width:1.6;}
+	.st7{fill:url(#SVGID_1_);}
+	.st8{fill:#333333;}
+	.st9{font-family:'ArialMT';}
+	.st10{font-size:16px;}
+	.st11{fill:url(#SVGID_2_);}
+	.st12{fill:url(#SVGID_3_);}
+	.st13{fill:none;stroke:#1A1A1A;stroke-width:9;stroke-linecap:round;}
+	.st14{fill:#1A1A1A;}
+	.st15{fill:none;stroke:#777777;stroke-width:3;}
+	.st16{fill:#FFFFFF;stroke:#B8B8B8;stroke-width:1.5;}
+	.st17{fill:url(#SVGID_4_);}
+	.st18{fill:url(#SVGID_5_);}
+	.st19{fill:#FFFFFF;}
+	.st20{font-family:'Arial-BoldMT';}
+	.st21{font-size:25px;}
+	.st22{fill:#111111;}
+	.st23{font-size:23px;}
+	.st24{fill:#292929;}
+	.st25{fill:#FFFFFF;stroke:#1A1A1A;stroke-width:4;}
+	.st26{fill:url(#SVGID_6_);}
+	.st27{fill:url(#SVGID_7_);}
+	.st28{fill:url(#SVGID_8_);}
+	.st29{fill:url(#SVGID_9_);}
+	.st30{fill:url(#SVGID_10_);}
+	.st31{fill:url(#SVGID_11_);}
+	.st32{fill:url(#SVGID_12_);}
+	.st33{fill:url(#SVGID_13_);}
+	.st34{fill:url(#SVGID_14_);}
+	.st35{fill:url(#SVGID_15_);}
+	.st36{fill:url(#SVGID_16_);}
+	.st37{fill:url(#SVGID_17_);}
+</style>
+<pattern  y="1139.2" width="10" height="10" patternUnits="userSpaceOnUse" id="regulation-dots" viewBox="0 -10 10 10" style="overflow:visible;">
+	<g>
+		<rect y="-10" class="st0" width="10" height="10"/>
+		<rect y="-10" class="st1" width="10" height="10"/>
+		<circle class="st2" cx="2.5" cy="-2.5" r="1.3"/>
+		<circle class="st2" cx="7.5" cy="-7.5" r="1.4"/>
+	</g>
+</pattern>
+<pattern  y="1139.2" width="10" height="10" patternUnits="userSpaceOnUse" id="tension-grid" viewBox="0.4 -10.4 10 10" style="overflow:visible;">
+	<g>
+		<rect x="0.4" y="-10.4" class="st0" width="10" height="10"/>
+		<rect x="0.4" y="-10.4" class="st3" width="10" height="10"/>
+		<path class="st4" d="M0.4-0.4h10 M0.4-5.4h10 M0.4-0.4v-10 M5.4-0.4v-10"/>
+	</g>
+</pattern>
+<pattern  y="1139.2" width="10" height="10" patternUnits="userSpaceOnUse" id="trade-hatch" viewBox="2.6 -12.6 10 10" style="overflow:visible;">
+	<g>
+		<rect x="2.6" y="-12.6" class="st0" width="10" height="10"/>
+		<rect x="2.6" y="-12.6" class="st5" width="10" height="10"/>
+		<path class="st6" d="M0.6-4.6l4,4 M2.6-12.6l10,10 M10.6-14.6l4,4"/>
+	</g>
+</pattern>
+<desc  id="timeline-desc">
+	A seven-stage timeline showing the negotiating mandate, resumed talks, the 2019 trade agreement in principle, the 2020 sustainability assessment, adoption of the EU Deforestation Regulation, the 2024 political agreement, and signature and provisional application in 2026. An analytical panel links these events to integration by externalisation, asymmetric greening and sustainability as a legitimacy device.
+	</desc>
+<g transform="translate(1185,106)">
+	<pattern  id="SVGID_1_" xlink:href="#trade-hatch" patternTransform="matrix(2.8346 0 0 -2.8346 16664.3965 -33297.5977)">
+	</pattern>
+	<circle class="st7" cx="-15.7" cy="-60.8" r="19.8"/>
+	<text transform="matrix(1 0 0 1 14 -54.793)" class="st8 st9 st10">trade process</text>
+	<pattern  id="SVGID_2_" xlink:href="#regulation-dots" patternTransform="matrix(2.8346 0 0 -2.8346 16671.0898 -33287.7578)">
+	</pattern>
+	<circle class="st11" cx="156.3" cy="-60.8" r="19.8"/>
+	<text transform="matrix(1 0 0 1 184 -54.793)" class="st8 st9 st10">EU regulation</text>
+	<pattern  id="SVGID_3_" xlink:href="#tension-grid" patternTransform="matrix(2.8346 0 0 -2.8346 16691.7012 -33289.4844)">
+	</pattern>
+	<circle class="st12" cx="333.7" cy="-60.8" r="19.8"/>
+	<text transform="matrix(1 0 0 1 359 -54.793)" class="st8 st9 st10">contested implementation</text>
+</g>
+<line class="st13" x1="110.1" y1="399.2" x2="1810.9" y2="399.2"/>
+<polygon class="st14" points="1809,363.2 1876,399.2 1809,435.2 "/>
+<line class="st15" x1="140" y1="336.2" x2="140" y2="377.2"/>
+<g>
+	<path class="st16" d="M45.3,109.2h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3H45.3c-8.5,0-15.3-6.9-15.3-15.3
+		V124.6C30,116.1,36.9,109.2,45.3,109.2z"/>
+	<pattern  id="SVGID_4_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 684.6877 -18384.8359)">
+	</pattern>
+	<path class="st17" d="M45.3,109.1h210.3c8.5,0,15.3,6.9,15.3,15.3V142c0,8.5-6.9,15.3-15.3,15.3H45.3c-8.5,0-15.3-6.9-15.3-15.3
+		v-17.5C30,116,36.9,109.1,45.3,109.1z"/>
+	<pattern  id="SVGID_5_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 684.6877 -18384.8359)">
+	</pattern>
+	<rect x="30" y="139.8" class="st18" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 48 141.207)" class="st19 st20 st21">1999–2000</text>
+	<text transform="matrix(1 0 0 1 41 186.207)" class="st22 st20 st23">Mandate and</text>
+	<text transform="matrix(1 0 0 1 188.5718 186.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 41 213.207)" class="st22 st20 st23">opening talks</text>
+	<text transform="matrix(1 0 0 1 41.0244 253.207)" class="st24 st9 st10">A 1999 Council mandate</text>
+	<text transform="matrix(1 0 0 1 222.3438 253.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 41 275.207)" class="st24 st9 st10">led to negotiations in</text>
+	<text transform="matrix(1 0 0 1 194.7734 275.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 41 297.207)" class="st24 st9 st10">2000 on trade, political</text>
+	<text transform="matrix(1 0 0 1 209 297.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 41 319.207)" class="st24 st9 st10">dialogue and cooperation.</text>
+</g>
+<circle class="st25" cx="140" cy="399.2" r="17"/>
+<line class="st15" x1="400" y1="421.2" x2="400" y2="474.2"/>
+<g>
+	<path class="st16" d="M305.3,472.1h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3H305.3
+		c-8.5,0-15.3-6.9-15.3-15.3V487.4C290,478.9,296.9,472.1,305.3,472.1z"/>
+	<pattern  id="SVGID_6_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 681.8387 -18397.4902)">
+	</pattern>
+	<path class="st26" d="M305.3,472.1h210.3c8.5,0,15.3,6.9,15.3,15.3V505c0,8.5-6.9,15.3-15.3,15.3H305.3c-8.5,0-15.3-6.9-15.3-15.3
+		v-17.5C290,479,296.9,472.1,305.3,472.1z"/>
+	<pattern  id="SVGID_7_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 681.8387 -18397.4902)">
+	</pattern>
+	<rect x="290" y="502.8" class="st27" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 308 504.207)" class="st19 st20 st21">2004–2010</text>
+	<text transform="matrix(1 0 0 1 302 549.207)" class="st22 st20 st23">Pause, then</text>
+	<text transform="matrix(1 0 0 1 437.0942 549.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 302 576.207)" class="st22 st20 st23">renewed talks</text>
+	<text transform="matrix(1 0 0 1 302 616.207)" class="st24 st9 st10">Talks were suspended</text>
+	<text transform="matrix(1 0 0 1 466.3125 616.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 302 638.207)" class="st24 st9 st10">over agriculture, services</text>
+	<text transform="matrix(1 0 0 1 485.8438 638.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 302 660.207)" class="st24 st9 st10">and public procurement,</text>
+	<text transform="matrix(1 0 0 1 479.6562 660.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 302 682.207)" class="st24 st9 st10">then resumed in May 2010.</text>
+</g>
+<circle class="st25" cx="400" cy="399.2" r="17"/>
+<line class="st15" x1="660" y1="336.2" x2="660" y2="377.2"/>
+<g>
+	<path class="st16" d="M565.3,109.2h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3H565.3
+		c-8.5,0-15.3-6.9-15.3-15.3V124.6C550,116.1,556.9,109.2,565.3,109.2z"/>
+	<pattern  id="SVGID_8_" xlink:href="#tension-grid" patternTransform="matrix(1.0952 0 0 -1.0952 690.1432 -18391.3555)">
+	</pattern>
+	<path class="st28" d="M565.3,109.1h210.3c8.5,0,15.3,6.9,15.3,15.3V142c0,8.5-6.9,15.3-15.3,15.3H565.3c-8.5,0-15.3-6.9-15.3-15.3
+		v-17.5C550,116,556.9,109.1,565.3,109.1z"/>
+	<pattern  id="SVGID_9_" xlink:href="#tension-grid" patternTransform="matrix(1.0952 0 0 -1.0952 690.1432 -18391.3555)">
+	</pattern>
+	<rect x="550" y="139.8" class="st29" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 568 141.207)" class="st19 st20 st21">2019</text>
+	<text transform="matrix(1 0 0 1 561 186.207)" class="st22 st20 st23">Trade deal agreed</text>
+	<text transform="matrix(1 0 0 1 763.5898 186.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 561 213.207)" class="st22 st20 st23">in principle</text>
+	<text transform="matrix(1 0 0 1 561 245.207)" class="st24 st9 st10">The trade pillar closed on</text>
+	<text transform="matrix(1 0 0 1 747.6562 245.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 561 266.207)" class="st24 st9 st10">29 June. The European</text>
+	<text transform="matrix(1 0 0 1 734.9453 266.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 561 287.207)" class="st24 st9 st10">Green Deal followed in</text>
+	<text transform="matrix(1 0 0 1 729.8672 287.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 561 308.207)" class="st24 st9 st10">December, while Amazon</text>
+	<text transform="matrix(1 0 0 1 748.5312 308.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 561 329.207)" class="st24 st9 st10">forest loss tested credibility.</text>
+</g>
+<circle class="st25" cx="660" cy="399.2" r="17"/>
+<line class="st15" x1="920" y1="421.2" x2="920" y2="474.2"/>
+<g>
+	<path class="st16" d="M825.3,472.1h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3H825.3
+		c-8.5,0-15.3-6.9-15.3-15.3V487.4C810,478.9,816.9,472.1,825.3,472.1z"/>
+	<pattern  id="SVGID_10_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 687.0929 -18397.4902)">
+	</pattern>
+	<path class="st30" d="M825.3,472.1h210.3c8.5,0,15.3,6.9,15.3,15.3V505c0,8.5-6.9,15.3-15.3,15.3H825.3c-8.5,0-15.3-6.9-15.3-15.3
+		v-17.5C810,479,816.9,472.1,825.3,472.1z"/>
+	<pattern  id="SVGID_11_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 687.0929 -18397.4902)">
+	</pattern>
+	<rect x="810" y="502.8" class="st31" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 828 504.207)" class="st19 st20 st21">2020</text>
+	<text transform="matrix(1 0 0 1 822 549.207)" class="st22 st20 st23">Sustainability</text>
+	<text transform="matrix(1 0 0 1 977.5337 549.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 822 576.207)" class="st22 st20 st23">assessment</text>
+	<text transform="matrix(1 0 0 1 822 616.207)" class="st24 st9 st10">The Commission published</text>
+	<text transform="matrix(1 0 0 1 1020.9766 616.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 822 638.207)" class="st24 st9 st10">its draft SIA. Its scenarios</text>
+	<text transform="matrix(1 0 0 1 1009.3984 638.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 822 660.207)" class="st24 st9 st10">projected possible effects;</text>
+	<text transform="matrix(1 0 0 1 1012.7031 660.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 822 682.207)" class="st24 st9 st10">they were not ex post evidence.</text>
+</g>
+<circle class="st25" cx="920" cy="399.2" r="17"/>
+<line class="st15" x1="1180" y1="336.2" x2="1180" y2="377.2"/>
+<g>
+	<path class="st16" d="M1085.3,109.2h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3V124.6C1070,116.1,1076.9,109.2,1085.3,109.2z"/>
+	<pattern  id="SVGID_12_" xlink:href="#regulation-dots" patternTransform="matrix(1.0952 0 0 -1.0952 684.4882 -18390.4121)">
+	</pattern>
+	<path class="st32" d="M1085.3,109.1h210.3c8.5,0,15.3,6.9,15.3,15.3V142c0,8.5-6.9,15.3-15.3,15.3h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3v-17.5C1070,116,1076.9,109.1,1085.3,109.1z"/>
+	<pattern  id="SVGID_13_" xlink:href="#regulation-dots" patternTransform="matrix(1.0952 0 0 -1.0952 684.4882 -18390.4121)">
+	</pattern>
+	<rect x="1070" y="139.8" class="st33" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 1088 141.207)" class="st19 st20 st21">2023</text>
+	<text transform="matrix(1 0 0 1 1081 186.207)" class="st22 st20 st23">EUDR adopted</text>
+	<text transform="matrix(1 0 0 1 1081 231.207)" class="st24 st9 st10">Regulation (EU) 2023/1115</text>
+	<text transform="matrix(1 0 0 1 1279.5312 231.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1081 253.207)" class="st24 st9 st10">made deforestation-free</text>
+	<text transform="matrix(1 0 0 1 1257.875 253.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1081 275.207)" class="st24 st9 st10">production and due diligence</text>
+	<text transform="matrix(1 0 0 1 1292.6016 275.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1081 297.207)" class="st24 st9 st10">conditions of EU market</text>
+	<text transform="matrix(1 0 0 1 1257.8516 297.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1081 319.207)" class="st24 st9 st10">access for covered products.</text>
+</g>
+<circle class="st25" cx="1180" cy="399.2" r="17"/>
+<line class="st15" x1="1440" y1="421.2" x2="1440" y2="474.2"/>
+<g>
+	<path class="st16" d="M1345.3,472.1h210.3c8.5,0,15.3,6.9,15.3,17.5v215.8c0,6.3-6.9,13.2-15.3,13.2h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3V487.4C1330,478.9,1336.9,472.1,1345.3,472.1z"/>
+	<pattern  id="SVGID_14_" xlink:href="#tension-grid" patternTransform="matrix(1.0952 0 0 -1.0952 681.5964 -18393.0586)">
+	</pattern>
+	<path class="st34" d="M1345.3,472.1h210.3c8.5,0,15.3,6.9,15.3,15.3V505c0,8.5-6.9,15.3-15.3,15.3h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3v-17.5C1330,479,1336.9,472.1,1345.3,472.1z"/>
+	<pattern  id="SVGID_15_" xlink:href="#tension-grid" patternTransform="matrix(1.0952 0 0 -1.0952 681.5964 -18393.0586)">
+	</pattern>
+	<rect x="1330" y="502.8" class="st35" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 1348 504.207)" class="st19 st20 st21">2024</text>
+	<text transform="matrix(1 0 0 1 1342 549.207)" class="st22 st20 st23">Political agreement</text>
+	<text transform="matrix(1 0 0 1 1558.9082 549.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 1342 576.207)" class="st22 st20 st23">reached</text>
+	<text transform="matrix(1 0 0 1 1342 616.207)" class="st24 st9 st10">On 6 December, the parties</text>
+	<text transform="matrix(1 0 0 1 1543.6562 616.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1342 638.207)" class="st24 st9 st10">added stronger Paris and</text>
+	<text transform="matrix(1 0 0 1 1527.6719 638.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1342 660.207)" class="st24 st9 st10">deforestation commitments.</text>
+	<text transform="matrix(1 0 0 1 1544.5234 660.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1342 682.207)" class="st24 st9 st10">Implementation remained</text>
+	<text transform="matrix(1 0 0 1 1528.5391 682.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1342 704.207)" class="st24 st9 st10">politically contested.</text>
+</g>
+<circle class="st25" cx="1440" cy="399.2" r="17"/>
+<line class="st15" x1="1700" y1="336.2" x2="1700" y2="377.2"/>
+<g>
+	<path class="st16" d="M1585.3,109.2h210.3c8.5,0,15.3,6.9,15.3,15.3v215.8c0,8.5-6.9,15.3-15.3,15.3h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3V124.6C1570,116.1,1576.9,109.2,1585.3,109.2z"/>
+	<pattern  id="SVGID_16_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 691.4021 -18395.7871)">
+	</pattern>
+	<path class="st36" d="M1585.3,109.1h210.3c8.5,0,15.3,6.9,15.3,15.3V142c0,8.5-6.9,15.3-15.3,15.3h-210.3
+		c-8.5,0-15.3-6.9-15.3-15.3v-17.5C1570,116,1576.9,109.1,1585.3,109.1z"/>
+	<pattern  id="SVGID_17_" xlink:href="#trade-hatch" patternTransform="matrix(1.0952 0 0 -1.0952 691.4021 -18395.7871)">
+	</pattern>
+	<rect x="1570" y="139.8" class="st37" width="240.9" height="17.5"/>
+	<text transform="matrix(1 0 0 1 1588 141.207)" class="st19 st20 st21">2026</text>
+	<text transform="matrix(1 0 0 1 1581 186.207)" class="st22 st20 st23">Signed and applied</text>
+	<text transform="matrix(1 0 0 1 1798.8521 186.207)" class="st22 st20 st23"> </text>
+	<text transform="matrix(1 0 0 1 1581 213.207)" class="st22 st20 st23">provisionally</text>
+	<text transform="matrix(1 0 0 1 1581 253.207)" class="st24 st9 st10">The EMPA and interim Trade</text>
+	<text transform="matrix(1 0 0 1 1792.2422 253.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1581.0244 275.207)" class="st24 st9 st10">Agreement were signed on</text>
+	<text transform="matrix(1 0 0 1 1779.2266 275.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1581 297.207)" class="st24 st9 st10">17 January. The interim deal</text>
+	<text transform="matrix(1 0 0 1 1789.2969 297.207)" class="st24 st9 st10"> </text>
+	<text transform="matrix(1 0 0 1 1581 319.207)" class="st24 st9 st10">applied from 1 May.</text>
+</g>
+<circle class="st25" cx="1700" cy="399.2" r="17"/>
+</svg>
